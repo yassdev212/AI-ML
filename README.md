@@ -1,0 +1,1 @@
+created micgrograd from scratch 
