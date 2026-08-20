@@ -1,1 +1,1 @@
-created micgrograd from scratch 
+built micgrograd from scratch 
